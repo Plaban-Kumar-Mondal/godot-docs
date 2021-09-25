@@ -29,7 +29,7 @@ positive to the engine, regardless of their skill set:
    draw attention to Godot. So keep working on your awesome projects, each new
    game increases our credibility on the gamedev market!
 
--  **Get involved in the engine's development.** This can be by contributing
+-  **Get involved in the engine's development.** This can be done by contributing
    code via pull requests, testing the development snapshots or directly the
    git *master* branch, report bugs or suggest enhancements on the issue
    tracker, improve the official documentation (both the class reference and
